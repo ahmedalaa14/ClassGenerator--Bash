@@ -1,10 +1,10 @@
-# Class Template Generator
+ # Class Template Generator
 
 Bash script to create a simple C++ template class with its respective constructor, getters, and setters.
 
 ## Usage
 
-To use this script, you need to provide arguments to it via the cli. 
+To use this script, you need to provide arguments to it via the CLI. 
 
 ### Positional arguments in order:
 * The first argument represents the class name. You don't need to provide the extension, it will be written as a .h file.
